@@ -1,0 +1,5 @@
+nums = [32,34,54,55,67,65]
+count = 0
+if nums % 2 == 0
+count = count + 1
+print count
